@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 I am a computer science student.
-I aim to master the skill of computer programming in many programming languages.
+I aim to master the skill of computer programming in multiple languages.
 - :telescope: Currently I'm a computer science student at PES University.
 - :zap: In my free time, I write articles related to programming in my blog.
 - :card_file_box: This will be a repository for all my creations. 
