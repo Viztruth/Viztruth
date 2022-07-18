@@ -1,4 +1,3 @@
-# Vishruth Kumar
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="400"/>
 </div>
