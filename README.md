@@ -11,7 +11,7 @@
 ### :man_technologist: About Me :
 Hi! My name is Vishruth Kumar and this is my Github Page.
 My aim is to master coding skills.
-- :telescope: I'm an undergrad computer science student at PES University, Bangalore
+- :school: I'm an undergrad computer science student at PES University, Bangalore
 - :zap: In my free time, I write articles & tutorials related to programming in my <a href="https://vishruthcodes.blogspot.com/">blog</a>.
 - :card_file_box: This will be a repository for all my creations. 
 
