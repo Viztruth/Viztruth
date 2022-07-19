@@ -1,25 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="300"/>
 </div>
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>
-  <br>
-  </h1>
-  
-### :link: Connect with me! :
-<div id="badges" align="center">
-  <a href="https://vishruthcodes.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blogger-orange?logo=blogger&logoColor=white&style=for-the-badge" alt="Blogger Badge"/>
-  </a>
-  <a href="https://twitter.com/imVishruthKumar">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="www.linkedin.com/in/vishruth-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-</div><br>
+<div align="center"> 
+
+### Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 ---
 
@@ -48,3 +33,18 @@ I aim to master the skill of computer programming in multiple languages.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishruthh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :link: Connect with me! :
+<div id="badges" align="center">
+  <a href="https://vishruthcodes.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blogger-orange?logo=blogger&logoColor=white&style=for-the-badge" alt="Blogger Badge"/>
+  </a>
+  <a href="https://twitter.com/imVishruthKumar">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="www.linkedin.com/in/vishruth-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+</div><br>
