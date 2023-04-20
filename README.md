@@ -44,7 +44,7 @@ My aim is to master coding skills.
   <a href="https://vishruthcodes.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-orange?logo=blogger&logoColor=white&style=for-the-badge" alt="Blogger Badge"/>
   </a>
-  <a href="https://twitter.com/imVishruthKumar">
+  <a href="https://twitter.com/Viztruth">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="www.linkedin.com/in/vishruth-kumar">
