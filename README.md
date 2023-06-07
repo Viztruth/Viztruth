@@ -10,7 +10,8 @@
 
 ### :man_technologist: About Me :
 Hi! My name is Vishruth Kumar and this is my Github Page.
-My aim is to master coding skills.
+My aim is to be the best at whatever I do.
+- 👦🏽 Tech enthusiast. Enjoys learning and keeping up with trends!
 - :school: CSE Undergraduate from PES University, Bangalore
 - :zap: In my free time, I write articles & tutorials related to programming in my <a href="https://vishruthcodes.blogspot.com/">blog</a>.
 - :card_file_box: This will be a repository for all my creations. 
@@ -38,6 +39,8 @@ My aim is to master coding skills.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" title="Arduino IDE" alt="Arduino IDE" width="50" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width="50" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="MS Excel" alt="MS Excel" width="45" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" title="MS Word" alt="MS Word" width="45" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" title="MS Powerpoint" alt="MS Powerpoint" width="45" height="40"/>&nbsp;
 </div>
 
 ---
