@@ -60,4 +60,7 @@ My aim is to be the best at whatever I do.
     <a href="www.linkedin.com/in/vishruth-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
+  <a href="https://www.youtube.com/@viztruth">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </div><br>
